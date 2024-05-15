@@ -427,6 +427,7 @@ ul li {
   .contact .container .contact-content p,
   .contact .container .contact-content a {
     font-size: 20px;
+    letter-spacing: -1px;
   }
 }
 /* End Contact */
